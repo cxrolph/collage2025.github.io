@@ -13,7 +13,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        COLLAGE (Comprehensive ML-based Analysis of FetAl Growth trajEctories) develops safe, fair, and explainable ML tools for automated fetal growth monitoring, enabling early detection of small newborns and providing clinicians with trustworthy insights for better medical decisions.
+        COLLAGE (Comprehensive ML-based Analysis of FetAl Growth trajEctories) is a collaborative project advancing safe, fair, and explainable ML for fetal growth monitoring, enabling early detection of small newborns.
   
   - block: collection
     content:
