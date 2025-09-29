@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Hola esto es una prueba # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://cxrolph.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
