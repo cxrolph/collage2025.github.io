@@ -8,14 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        COLLAGE (Comprehensive ML-based Analysis of FetAl Growth trajEctories) develops safe, fair, and explainable ML tools for automated fetal growth monitoring, enabling early detection of small newborns and providing clinicians with trustworthy insights for better medical decisions.
   
   - block: collection
     content:
