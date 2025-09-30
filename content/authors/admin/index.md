@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'carolina.pavez.higueras@usc.es'
+    link: 'mailto:carolina.pavez.higueras@usc.es'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -55,7 +55,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
-    icon_pack: brands
+    icon_pack: fab
     link: http://linkedin.com/in/carolina-pavez-higueras-ingbio/
 
 # Link to a PDF of your resume/CV from the About widget.
