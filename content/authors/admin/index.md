@@ -75,3 +75,4 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
+Carolina Pavez Higueras is a PhD student in the PhD Program in Information Technology Research at the Universidade de Santiago de Compostela and works at CITIUS. Her research interests include algorithmic fairness, bias mitigation, and explainability. She focuses on developing and evaluating models for healthcare applications, with particular attention to fairness across demographic groups and clinical settings.
