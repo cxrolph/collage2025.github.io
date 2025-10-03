@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2025-06-01T00:00:00Z'
-doi: '10.48550/arXiv.2506.16256'
+doi: 'https://doi.org/10.1007/978-3-031-99568-2_7'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-06-01T00:00:00Z'

@@ -4,10 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: COLLAGE
-# output:
-#   html_document:
-#     include:
-#       before_body: header.html
 baseURL: 'https://cxrolph.github.io/' # Website URL
 
 ############################
