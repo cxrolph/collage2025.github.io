@@ -11,10 +11,6 @@ appearance:
   font: native
   font_size: L
 
-# Site icon
-icon:
-  pack: custom
-  icon: media/logo_collage
 
 # SEO
 
@@ -45,10 +41,6 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
-  logo:
-    image: media/logo_collage.jpg
-    text: ""
-
 
 
 # Site footer

@@ -3,7 +3,11 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "" # Website name - empty to show logo instead
+title: COLLAGE
+# output:
+#   html_document:
+#     include:
+#       before_body: header.html
 baseURL: 'https://cxrolph.github.io/' # Website URL
 
 ############################
@@ -14,17 +18,6 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
-
-############################
-## SITE PARAMS
-############################
-
-# params:
-#   image:
-#     filename: gynecologist.jpg
-#   logo: assets/media/logo_collage.jpg
-#   favicon: assets/media/logo_collage.jpg
 
 
 ############################

@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Constanza Andión
+title: Nicolás Vila Blanco
 
 # Full name (for SEO)
-first_name: Constanza
-last_name: Andión
+first_name: Nicolás
+last_name: Vila
 
 # Username (this should match the folder name)
 authors:
-  - cons
+  - nicolasvila
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Assistant Professor Doctor
 
 # Organizations/Affiliations
 organizations:
@@ -24,24 +24,24 @@ organizations:
   #   url: 'https://citius.gal/citius/presentation/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the development of advanced machine learning methodologies.
+bio: My research interests include artificial intelligence and machine learning applications.
 
 interests:
   - Artificial Intelligence
-  - Data analysis
-  - Medical imaging and biomedical signals
+  - Machine Learning
+  - Data Science
 
 education:
   courses:
-    - course: PhD in Information Technology Research
+    - course: PhD in Computer Science
       institution: Universidade de Santiago de Compostela
-      year: 2025
-    - course: MSc in Machine Learning and Health
-      institution: Universidad Carlos III de Madrid
-      year: 2023
-    - course: BSc in Biomedical Engineering
-      institution: Universitat Politècnica de València
-      year: 2021
+      year: 2020
+    - course: MSc in Computer Science
+      institution: Universidade de Santiago de Compostela
+      year: 2016
+    - course: BSc in Computer Science
+      institution: Universidade de Santiago de Compostela
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -50,16 +50,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:constanza.andion.garcia@usc.es'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+    link: 'mailto:nicolas.vila@usc.es'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=es&user=W776a20AAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/nvblanco
   - icon: linkedin
     icon_pack: fab
-    link: http://linkedin.com/in/constanza-andión-garcía-0377a9192/
+    link: https://www.linkedin.com/in/nicol%C3%A1s-vila-blanco-a9a02188/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,8 +73,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
----
 
-Constanza Andión is a PhD student in the PhD Program in Information Technology Research at the Universidade de Santiago de Compostela (USC) and works at CITIUS. Her research interests include the development of Machine Learning methodologies for health, with special emphasis on medical signals and images. Her research focuses on applying machine learning to improve early detection of Small and Vulnerable Newborns (SVN), integrating longitudinal ultrasound and maternal clinical data.
+---
 
 
