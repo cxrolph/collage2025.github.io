@@ -11,6 +11,11 @@ appearance:
   font: native
   font_size: L
 
+# Site icon
+icon:
+  pack: custom
+  icon: media/logo_collage
+
 # SEO
 
 marketing:
@@ -40,12 +45,17 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
+  logo:
+    image: media/logo_collage.jpg
+    text: ""
+
+
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Centro Singular de Investigación en Tecnoloxías Intelixentes da USC'
     license:
       enable: true
       allow_derivatives: false

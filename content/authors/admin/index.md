@@ -7,7 +7,7 @@ first_name: Carolina
 last_name: Pavez
 
 # Is this the primary user of the site?
-superuser: true
+# superuser: true
 
 # Role/position
 role: PhD Student 

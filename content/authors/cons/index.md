@@ -7,11 +7,11 @@ first_name: Constanza
 last_name: Andión
 
 # Username (this should match the folder name)
-# authors:
-#   - cons
+authors:
+  - cons
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PhD Student
@@ -20,8 +20,8 @@ role: PhD Student
 organizations:
   - name: Universidade de Santiago de Compostela
     url: 'https://www.usc.gal/es/usc/institucional'
-  - name: Centro Singular de Investigación en Tecnoloxías Intelixentes
-    url: 'https://citius.gal/citius/presentation/'
+  # - name: Centro Singular de Investigación en Tecnoloxías Intelixentes
+  #   url: 'https://citius.gal/citius/presentation/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the development of advanced machine learning methodologies.
@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Information Technology Research
       institution: Universidade de Santiago de Compostela
-      year: Ongoing
+      year: 2025
     - course: MSc in Machine Learning and Health
       institution: Universidad Carlos III de Madrid
       year: 2023
@@ -57,6 +57,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: http://linkedin.com/in/constanza-andión-garcía-0377a9192/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
