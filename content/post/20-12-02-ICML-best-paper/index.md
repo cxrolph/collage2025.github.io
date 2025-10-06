@@ -1,16 +1,19 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: Galician Research Group Visits BCN MedTech and BCNatal in Barcelona
+date: 2025-09-05
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Members of the Galician research group — **Carolina**, **Constanza**, **Marta**, and **César** — recently traveled to **Barcelona** to visit **BCN MedTech (Universitat Pompeu Fabra)** and **BCNatal (Hospital Clínic & Sant Joan de Déu)** as part of their ongoing collaboration in fetal development and AI-based medical imaging research.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+The visit aimed to strengthen interdisciplinary collaboration and discuss recent progress in the group’s research on **machine learning models for early detection of fetal growth alterations**.  
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+During the meetings, the team:
+- Shared preliminary results on integrating **longitudinal ultrasound data** and **maternal clinical parameters** for gestational age estimation and small-for-gestational-age (SGA) detection.  
+- Visited BCNatal to better understand the **clinical workflow** of fetal ultrasound analysis and explore ways to facilitate model deployment in real-world settings.  
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+This exchange provided valuable clinical and technical feedback that will guide the next phase of model validation and development. The collaboration between the Galician team, BCN MedTech, and BCNatal highlights the importance of combining **clinical expertise and AI methodologies** to improve prenatal care.
+
