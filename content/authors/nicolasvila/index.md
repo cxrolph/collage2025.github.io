@@ -24,7 +24,7 @@ organizations:
   #   url: 'https://citius.gal/citius/presentation/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence and machine learning applications.
+bio: My research interests include medical image processing and multimodal learning.
 
 interests:
   - Artificial Intelligence
@@ -33,15 +33,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD in Information Technology Research
       institution: Universidade de Santiago de Compostela
-      year: 2020
-    - course: MSc in Computer Science
-      institution: Universidade de Santiago de Compostela
+      year: 2022
+    - course: MSc in Data Science and Computer Engineering
+      institution: Universidad de Granada
       year: 2016
-    - course: BSc in Computer Science
-      institution: Universidade de Santiago de Compostela
-      year: 2014
+    - course: BSc in Computer Engineering
+      institution: Universidade de Vigo
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -76,4 +76,4 @@ user_groups:
 
 ---
 
-
+Nicolás Vila Blanco is an assistant professor at the Universidade de Santiago de Compostela and an affiliated researcher at CiTIUS. His research focuses on medical image processing and multimodal learning, specifically developing foundation models to assist in clinical procedures like interactive medical image segmentation.
