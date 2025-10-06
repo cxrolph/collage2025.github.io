@@ -24,22 +24,22 @@ organizations:
   #   url: 'https://citius.gal/citius/presentation/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 
+bio: My research interests include deep learning strategies, generative models, and biometrical inference in fetal ultrasound.
 
 interests:
   - Artificial Intelligence
 
-# education:
-#   courses:
-#     - course: PhD in Information Technology Research
-#       institution: Universidade de Santiago de Compostela
-#       year: 2025
-#     - course: MSc in Machine Learning and Health
-#       institution: Universidad Carlos III de Madrid
-#       year: 2023
-#     - course: BSc in Biomedical Engineering
-#       institution: Universitat Politècnica de València
-#       year: 2021
+education:
+  courses:
+    - course: PhD in Information Technology Research
+      institution: Universidade de Santiago de Compostela
+      year: (ongoing)
+    - course: MSc in Secondary School Training
+      institution: Universidade de Santiago de Compostela
+      year: 2022
+    - course: BSc in Computer Engineering
+      institution: Universidade de Santiago de Compostela
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -73,5 +73,6 @@ user_groups:
   - Researchers
 ---
 
+César Díaz Parga is a PhD student in the PhD Program in in Information Technology Research at the Universidade de Santiago de Compostela and works at CITIUS. His research interests includes deep learning strategies, generative models, and biometrical inference in fetal ultrasound. He specifically addresses biases in image data sources, with particular attention to challenges related to limited input data and the need for data harmonization in ultrasound datasets.
 
 
