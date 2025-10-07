@@ -27,3 +27,15 @@
   padding: 5px 10px;
   border-radius: 5px;
 }
+
+// Pink active navigation highlight - only for current page
+.navbar-nav .nav-item.active > .nav-link,
+.navbar-nav .nav-link.active {
+  color: #f09dc6 !important; /* pink color for active navigation item */
+  font-weight: bold;          /* makes the active item stand out */
+}
+
+// Pink hover effect for navigation items
+.navbar-nav .nav-link:hover {
+  color: #f09dc6 !important; /* pink on hover */
+}
