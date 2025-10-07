@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2022-10-24
+date: 2025-10-07
 
 type: landing
 
@@ -18,31 +18,31 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      # - title: Lunch & Learn ☕️
+      #   content: 'Share your knowledge with the group and explore exciting new topics together!'
+      #   align: left
+      #   background:
+      #     image:
+      #       filename: contact.jpg
+      #       filters:
+      #         brightness: 0.7
+      #     position: center
+      #     color: '#555'
+      - title: 📰 Latest news
+        content: |
+          <div class="slide-content"> The <span style= "font-weight: bold">COLLAGE team</span> of Galicia recently visited <span style= "font-weight: bold">BCNatal and BCN MedTech</span> in Barcelona to discuss ongoing research. </div>
+          <div class="slide-caption">Francisco Avia (Hospital Clinic Barcelona)</div>
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: hospitalclinic.jpeg
             filters:
-              brightness: 0.7
+              brightness: 0.6
           position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
+          color: '#444'
         link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Read the News
+          url: ../post/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

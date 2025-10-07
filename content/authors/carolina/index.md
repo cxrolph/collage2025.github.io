@@ -8,6 +8,8 @@ last_name: Pavez
 
 # Is this the primary user of the site?
 # superuser: true
+authors:
+- carolina
 
 # Role/position
 role: PhD Student 

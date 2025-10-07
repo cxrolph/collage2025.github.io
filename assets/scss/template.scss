@@ -7,3 +7,23 @@
 .cta-group {
   justify-content: center;
 }
+.slide-content {
+  color: white;        /* makes the paragraph and other text white */
+  z-index: 2;          /* above the image */
+  position: relative;   /* ensures it layers correctly */
+}
+.bold-text {
+  font-weight: bold;   
+  color: white; 
+}
+
+.slide-caption {
+  position: absolute;
+  bottom: 10px;
+  left: 20px;
+  color: white;
+  font-size: 0.9em;
+  background: rgba(0,0,0,0.3);
+  padding: 5px 10px;
+  border-radius: 5px;
+}
